@@ -10,7 +10,7 @@ A selfbot that automatically change your playing status to your current song pla
   * Install packages by using ```npm install``` Wait until all packages successfully installed.
   * Now it's time to get your token
     * Open discord app, and **if Mac** press <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>I</kbd>, **if Windows** <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>, If success **inspect element** will appear (see image below).
-    * [<img width="400" alt="User token" src="https://imgur.com/a/Qwfn7">](https://imgur.com/a/Qwfn7)
+    * ![token](https://user-images.githubusercontent.com/6217199/31170314-ce322d88-a925-11e7-8b04-e818c86a592f.png)
     * Click **Application** tab, click **Local Storage**, **https://discordapp.com** will shown, and then click on it.
     * List key with value will shown, we just need to take token value, and copy token value.
   * Paste the token to **config.json**
