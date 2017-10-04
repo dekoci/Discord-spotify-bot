@@ -1,10 +1,10 @@
-# Discord-spotify-bot
+### Discord-spotify-bot
 A selfbot that automatically change your playing status to your current song playing in spotify. Pull request are very welcome.
 
-# Requirement
+### Requirement
 * Nodejs https://nodejs.org/en/download/current/
   
-# Installation
+### Installation
   * Clone this repository ```git clone https://github.com/dekoci/Discord-spotify-bot.git```
   * Change directory after finished clone ```cd Discord-spotify-bot```
   * Install packages by using ```npm install``` Wait until all packages successfully installed.
@@ -20,3 +20,8 @@ A selfbot that automatically change your playing status to your current song pla
     }
     ```
   * Back to your terminal and type ```node bot.js```, if success it will return ```bot is ready```.
+
+
+### License
+
+This package is licensed under the [MIT license](https://github.com/backup-manager/laravel/blob/master/LICENSE).
