@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dekoci/Discord-spotify-bot/issues"
   },
-  "homepage": "https://github.com/dekoci/Discord-spotify-bot#readme"
+  "homepage": "https://github.com/dekoci/Discord-spotify-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "spotify-web-helper": "^1.12.0"
+  }
 }
